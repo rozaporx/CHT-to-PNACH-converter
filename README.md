@@ -11,3 +11,6 @@ How to use the CHT to PNACH Converter
 4. Run the 'cht_to_pnach_converter.exe' program by double-clicking it.
 
 5. The converted .pnach files will be created in a new folder named 'pnach_files', also in this directory.
+
+
+NOTE* if it does not have the game CRC in the CHT file, it will default and rename the PNACH file by the Game ID
