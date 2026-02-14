@@ -1,6 +1,5 @@
 # CHT-to-PNACH-converter
-A simple and effective tool for converting CHT cheat files to   the PNACH format, commonly used for PlayStation 2 emulation,   including compatibility with Grim Doomer OPL
-How to use the CHT to PNACH Converter
+A simple and effective tool for converting CHT cheat files to   the PNACH format, commonly used for PlayStation 2 emulation
 
 1. The 'cht_to_pnach_converter.exe' program is already in its own folder.
 
